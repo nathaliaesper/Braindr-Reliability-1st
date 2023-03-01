@@ -65,7 +65,7 @@
     "6": {
       "level": 6,
       "min": 2001,
-      "max": 2824,
+      "max": 2500,
       "character": "lion",
       "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F981.svg?sanitize=true",
       "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F981.svg?sanitize=true"
@@ -84,9 +84,9 @@
     "navbarVariant": "info"
   },
   "home": {
-    "title": "Braindr - RBC",
-    "tagline": "Reliability - 1st",
-    "backgroundUrl": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/background_image.jpeg?sanitize=true"
+    "title": "",
+    "tagline": "",
+    "backgroundUrl": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Reliability-1st/master/background_image.png"
   },
   "play": {
     "blankImage": "https://raw.githubusercontent.com/SwipesForScience/testConfig/master/images/undraw_blank_canvas.svg?sanitize=true"
