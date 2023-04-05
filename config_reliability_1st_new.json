@@ -25,7 +25,7 @@
     "1": {
       "level": 1,
       "min": 2777,
-      "max": 300,
+      "max": 3000,
       "character": "fish",
       "img": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Reliability-1st/master/final_image.png",
       "img_grey": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Reliability-1st/master/final_image.png"
